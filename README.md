@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/8f5e9002](https://www.behance.net/8f5e9002)
+- 👨‍💻 All of my projects are available at [https://www.behance.net/mohamedalikhwass](https://www.behance.net/mohamedalikhwass)
 
 - 📫 How to reach me **mo7amed3li5wass@gmail.com**
 
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mohamedkhwass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedkhwass" height="30" width="40" /></a>
 <a href="https://fb.com/mohamedkhwass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamedkhwass" height="30" width="40" /></a>
-<a href="https://www.behance.net/mohamedkhwass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mohamedkhwass" height="30" width="40" /></a>
+<a href="https://www.behance.net/mohamedalikhwass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mohamedalikhwass" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
