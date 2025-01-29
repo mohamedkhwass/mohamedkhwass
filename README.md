@@ -1,83 +1,30 @@
-<h2> Hi there, I'm Mohamed Ali Khwass <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h1 align="center">Hi 👋, I'm Mohamed Ali Khwass</h1>
+<h3 align="center">Software Engineer, Mobile Application Developer , Flutter Developer</h3>
 
-<div align="center" width="50">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedkhwass&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedkhwass" /> </p>
 
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedkhwass" alt="mohamedkhwass" /></a> </p>
 
-### Software Engineer. <br>
-i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a Mobile Developer. He holds many programming languages.
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://www.behance.net/8f5e9002](https://www.behance.net/8f5e9002)
 
-<div align="center">
+- 📫 How to reach me **mo7amed3li5wass@gmail.com**
 
-<i>contact with me:</i><br>
-<a href="https://www.linkedin.com/in/mohamed-ali-0467a5349/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.behance.net/8f5e9002" target="_blank"><img src="https://img.shields.io/badge/https%3A%2F%2Fcdn.worldvectorlogo.com%2Flogos%2Fbehance-3.svg
-?&style=flat-square&logo=instagram&logoColor=white" alt="behance"></a>
-<a href="https://www.facebook.com/mohamedkhwass" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/16-giTc9VhjTq0xTARDm5W2r1QAxoo0Hl?usp=drive_link](https://drive.google.com/drive/folders/16-giTc9VhjTq0xTARDm5W2r1QAxoo0Hl?usp=drive_link)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mohamedkhwass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedkhwass" height="30" width="40" /></a>
+<a href="https://fb.com/mohamedkhwass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamedkhwass" height="30" width="40" /></a>
+<a href="https://www.behance.net/mohamedkhwass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mohamedkhwass" height="30" width="40" /></a>
+</p>
 
-</div>
-<br>
-<h2> Samples from my projects </h2>
-</div>
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### Rashhli | رشحلي <br>
-رشحلي هوا تطبيق يتيح لك اسعار ومواصفات ومقارنات الموبيلات والساعات الذكيه والسماعات ايضا التطبيق يحتوي علي جميع الاقسام التي تحتاجها في مواصفات الاجهزه االاسعار محدثه باستمرار مع الاشعارات التي تنبهك عندما يتغير سعر جهاز ما او عن اضافه جهاز جديد يرسل لك اشعار بذالك التطبيق سهل التعامل مع للغايه وسريع جدا التطبيق يحتوي علي جميع الموبيبلات والسماعات وساعات الذكيه وكمان تقدر تقارن بين اي جهازين سواء كانو موبايلات او الساعات او السماعات ومميزات تانيه . 
-<br>
-<div align="right">
-<img src="rashhli.jpeg" width="450" height="650" ">
-<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedkhwass&show_icons=true&locale=en&layout=compact" alt="mohamedkhwass" /></p>
 
-<i>Download App:</i><br>
-<a href="https://play.google.com/store/apps/details?id=com.rashhli&pcampaignid=web_share" target="_blank"><img src="googleplay.png" width="250" height="200"></a>
-<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedkhwass&show_icons=true&locale=en" alt="mohamedkhwass" /></p>
 
-</div><br>
-</div>
-<br>
-
-### RashhliAdmin | رشحلي - ادمن <br>
-رشحلي ادمن لوحه تحكم لتطبيق رشحلي لوحه تحكم كامله (andriod & web & desktop) وتحتوي علي اضافه اجهزه موبايلات او ساعات او سماعات بكل التفاصيل وكمان تقدر تعدل علي اي جهاز او تحذفه واضافه او حذف Slider image ومميزات تانيه . 
-<br>
-<div align="right">
-<img src="rashhliadmin.jpeg" width="450" height="650" ">
-<div align="center">
-
-<i>Download App:</i><br>
-<a href="" target="_blank"><img src="googleplay.png" width="250" height="200"></a>
-<div align="center">
-
-</div><br>
-</div>
-<br>
-
-### Alwateen | الوتين <br>
-تطبيق خدمي بحت  حيث يسهل عليك الوصول الي متبرع دم وقت الطوارئ ويسهل عليك عمليه البحث فمن السهل الوصول الي فصيله الدم التي تحتاجها والكميه التي تريدها بالاضافه انه يمكنك ان تتبرع ايضا للاشخاص المحتاجين وفي حاله طوارئ وايضا يساعدك علي البحث عن الغرف العنايه المتاحه ف اقرب مستشفي لك مع امكانيه التواصل مع المستشفي للحجز او الاستفسار التطبيق في الكثثير من المميزات .
-<br>
-<div align="right">
-<img src="alwateen.jpeg" width="800" height="800" ">
-<div align="center">
-
-<i>Download App:</i><br>
-<a href="https://play.google.com/store/apps/details?id=com.alwateenBloodBank&pcampaignid=web_share" target="_blank"><img src="googleplay.png" width="250" height="200"></a>
-<div align="center">
-
-</div><br>
-
-</div>
-<br>
-
-### Zekrak 7esnak | ذكرك حصنك <br>
-تطبيق ديني يوجد في بعض المميزات التي يحتاجها المسلم مثل الاذكار والتسابيح وختم الصلاه وغيرها من المميزات يمتاز التطبيق بتفاعل مع المستخدم اثناء التسابيح والاذكار يجعلك تحافظ علي اذكارك بمجرد تفعيل الاشعارات .
-<br>
-<div align="right">
-<img src="zekrak7esnak.png.jpeg" width="800" height="600" ">
-<div align="center">
-
-<i>Download App:</i><br>
-<a href="https://play.google.com/store/apps/details?id=com.mohamed_khwass.zikrk_7isnnak&pcampaignid=web_share" target="_blank"><img src="googleplay.png" width="250" height="200"></a>
-<div align="center">
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedkhwass&" alt="mohamedkhwass" /></p>
