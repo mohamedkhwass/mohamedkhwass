@@ -13,7 +13,7 @@ i,am holds a Bachelor's degree in Computer Science, a Programming Engineer and a
 <i>contact with me:</i><br>
 <a href="https://www.linkedin.com/in/mohamed-ali-0467a5349/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.behance.net/8f5e9002" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/behance-3.svg?&style=flat-square&logo=instagram&logoColor=white" alt="behance"></a>
-<a href="https://www.facebook.com/mohamedkhwass" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.facebook.com/mohamedkhwass" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white"&width="450" height="650" alt="Facebook"></a>
 
 
 </div>
